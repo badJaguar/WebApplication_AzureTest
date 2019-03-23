@@ -12128,11 +12128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleks\\source\\repos\\WebApplication_AzureTest\\WebApplication_AzureTest\\WebApplication_AzureTest.csproj",
+      "projectUniqueName": "C:\\Users\\aleks\\OneDrive\\Documents\\GitHub\\WebApplication_AzureTest\\WebApplication_AzureTest\\WebApplication_AzureTest.csproj",
       "projectName": "WebApplication_AzureTest",
-      "projectPath": "C:\\Users\\aleks\\source\\repos\\WebApplication_AzureTest\\WebApplication_AzureTest\\WebApplication_AzureTest.csproj",
+      "projectPath": "C:\\Users\\aleks\\OneDrive\\Documents\\GitHub\\WebApplication_AzureTest\\WebApplication_AzureTest\\WebApplication_AzureTest.csproj",
       "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleks\\source\\repos\\WebApplication_AzureTest\\WebApplication_AzureTest\\obj\\",
+      "outputPath": "C:\\Users\\aleks\\OneDrive\\Documents\\GitHub\\WebApplication_AzureTest\\WebApplication_AzureTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
